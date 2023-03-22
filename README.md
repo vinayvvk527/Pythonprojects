@@ -1,2 +1,2 @@
 # Pythonprojects
-JournalApp
+JournalApp (CRUD Operations)
